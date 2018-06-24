@@ -1,0 +1,21 @@
+127.0.0.1	localhost
+127.0.1.1	cloud01.hsd1.ga.comcast.net	cloud01
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+## vm guests
+10.0.0.250 cloud1
+10.0.0.251 cloud2
+10.0.0.252 cloud3
+
+10.0.0.151 hdp1-1.local hdp1-1 
+10.0.0.152 hdp1-2.local hdp1-2
+10.0.0.153 hdp1-3.local hdp1-3
+10.0.0.161 hdp2-1.local hdp2-1
+10.0.0.162 hdp2-2.local hdp2-2
+10.0.0.163 hdp2-3.local hdp2-3
+
+10.0.0.181 mysql01
+10.0.0.182 mysql01
